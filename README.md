@@ -18,5 +18,5 @@ Some of my notable projects include:
 
 I’m always excited to connect with professionals, exchange ideas, and explore new opportunities in the AI field!
 
-[Portfolio](https://doramasma.github.io/)
+[Portfolio](https://doramasma.github.io/) \
 [Linkedin](https://www.linkedin.com/in/doramas-baez-bernal)
